@@ -7,7 +7,8 @@ The base for this extension comes from the code of
 **sportos** GoToSpec extension https://github.com/sporto/rails-go-to-spec-vscode
 I have left a lot of his code as comments as it is good to have if someone wants to
 build the feature 'create-file-if-it-does-not-exist'
-- Brainmaniac
+
+-Brainmaniac
 
 ## Keybindings
 These are the default keybindings:
